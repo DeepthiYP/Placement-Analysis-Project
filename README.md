@@ -134,10 +134,6 @@ Helps institutions improve placement strategies.
 Enables students to understand skill gaps.
 Supports data-driven training programs.
 
-📷 Dashboard Preview
-Add your dashboard screenshot here:
-
-[Dashboard Screenshot](images/dashboard.png)
 📁 Project Structure
 Smart-Placement-Analytics-Dashboard/
 │
